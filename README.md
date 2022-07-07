@@ -30,11 +30,13 @@ Room is a Database Object Mapping library that makes it easy to access database 
 
 ## Libraries and tools 🛠
 
-<li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
-<li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a></li>
+
 <li><a href="https://square.github.io/retrofit/](https://github.com/androidx-releases/Room">Room</a></li>
 <li><a href="https://developer.android.com/training/dependency-injection/hilt-android/">Hilt</a></li>
+<li><a href="https://github.com/airbnb/lottie-android">Lottie Animation</a></li>
 <li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
+<li><a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a></li>
 
 ## ScreenShots
 <p align="center">
