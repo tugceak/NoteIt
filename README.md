@@ -37,11 +37,9 @@ Room is a Database Object Mapping library that makes it easy to access database 
 <li><a href="https://material.io/develop/android/docs/getting-started/">Material Design</a></li>
 
 ## ScreenShots
-![0127d827-feba-49e8-a13b-03e120f400d0](https://user-images.githubusercontent.com/103635954/177839918-13433d2f-92a7-4c94-9e71-1f7b0093ae3a.jpg)
-
-
-![d021e64d-2ea7-4fed-a25d-cd29c5cd6662](https://user-images.githubusercontent.com/103635954/177839934-a759d922-8cb7-4846-a558-505178b0fd59.jpg)
-
-<img width="359" alt="Ekran Resmi 2022-07-07 20 46 31" src="https://user-images.githubusercontent.com/103635954/177839957-0405ab35-0273-4df5-9246-47076693f593.png">
-
-![811cc0cd-5d6f-4c82-a1be-35bd66fd21f0](https://user-images.githubusercontent.com/103635954/177840080-6a76a272-9b55-4783-8a31-69f250c00776.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103635954/177839918-13433d2f-92a7-4c94-9e71-1f7b0093ae3a.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/103635954/177839934-a759d922-8cb7-4846-a558-505178b0fd59.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/103635954/177839957-0405ab35-0273-4df5-9246-47076693f593.png" width="200">
+<img src="https://user-images.githubusercontent.com/103635954/177840080-6a76a272-9b55-4783-8a31-69f250c00776.jpg" width="400">
+</p>
