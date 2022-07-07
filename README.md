@@ -1,4 +1,4 @@
-## NoteIt
+## NOTED
 # [ Android Take Note App with Kotlin + HILT + MVVM +  Live Data +Room ](https://github.com/tugceak/NoteIt)
 
 [![kotlin](https://img.shields.io/badge/Kotlin-1.3.xxx-brightgreen.svg)](https://kotlinlang.org/)[![Kotlin-Android-Extensions](https://img.shields.io/badge/Kotlin--Android--Extensions-plugin-red.svg)](https://kotlinlang.org/docs/tutorials/android-plugin.html) [![MVVM](https://img.shields.io/badge/Clean--Code-MVVM-brightgreen.svg)](https://github.com/googlesamples/android-architecture) 
