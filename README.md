@@ -7,7 +7,7 @@
 NoteApp is an Android Application that provide taking note
 and list notes in recyclerview.It uses to Room keep Notes.
 
-The main goal of this app is to be a sample of how to build an high quality Android application that uses the Architecture components, Retrofit2 etc. in Kotlin.
+The main goal of this app is to be a sample of how to build an high quality Android application that uses the Architecture components, Room ,Hilt etc. in Kotlin.
 
 
 ## Architecture
