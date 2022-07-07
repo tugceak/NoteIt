@@ -25,7 +25,7 @@ Room is a Database Object Mapping library that makes it easy to access database 
 
 ## Project Structure
 
-<img width="352" alt="Ekran Resmi 2022-07-07 20 48 07" src="https://user-images.githubusercontent.com/103635954/177839051-356dacd1-8170-42ad-b94f-f478cefed408.png">
+<img width="334" alt="Ekran Resmi 2022-07-07 21 20 36" src="https://user-images.githubusercontent.com/103635954/177842729-39f82c95-0780-4db5-a395-96cab24d2acd.png">
 
 
 ## Libraries and tools 🛠
